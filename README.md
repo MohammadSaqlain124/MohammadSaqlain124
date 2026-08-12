@@ -5,7 +5,14 @@ I like taking a messy real-world problem and turning it into a clean, deployed, 
 Right now I'm going deep on **FastAPI, the MERN stack, and system design**.
 
 ---
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+---
 #### 🚀 Featured projects
 
 **[focusforge](https://github.com/MohammadSaqlain124/focusforge)** — MERN focus tracker with JWT auth and a burnout-detection engine
