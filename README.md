@@ -1,6 +1,6 @@
 ### Hi, I'm Saqlain 👋
 
-3rd-year Computer Science student who builds **full-stack web apps and Python backends**.
+4th-year Computer Science student who builds **full-stack web apps and Python backends**.
 I like taking a messy real-world problem and turning it into a clean, deployed, tested service.
 Right now I'm going deep on **FastAPI, the MERN stack, and system design**.
 
